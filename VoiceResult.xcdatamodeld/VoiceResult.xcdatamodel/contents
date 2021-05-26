@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="18154" systemVersion="20C69" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="VoiceRecord" representedClassName="VoiceRecord" syncable="YES" codeGenerationType="class">
+        <attribute name="imageName" optional="YES" attributeType="String"/>
+        <attribute name="recognizedText" optional="YES" attributeType="String"/>
+        <attribute name="speech" optional="YES" attributeType="Binary"/>
+        <attribute name="voice" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="VoiceRecord" positionX="-63" positionY="-18" width="128" height="89"/>
+    </elements>
+</model>
